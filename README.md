@@ -14,7 +14,7 @@ Python
 Pandas, jupyter
 
 Data
-The data used in the project was obtained from the Citi Bike Trip History logs from the Citi Bike Data webpage. The data covers the summer and winter seasons of 2019. The months included are January, February, June, July, August, and December. The data includes:
+The data used in the project was obtained from the Citi Bike Trip History logs from the Citi Bike Data webpage. The data includes:
 
 Trip Duration (seconds)
 Start Time and Date
