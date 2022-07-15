@@ -1,0 +1,15 @@
+Analysis:
+
+The number of bike riders are higher during the summer time as well as during the fall season due to comfortable weather.
+
+The study has focused on the data for the year 2017 (January to December) and also the time span July 2017 to July 2018. 362748 trips have been recorded total during the chosen period. From 2017-18 to 2018-08, total ridership has grown by 25.9%. the following data are showing the subscribes and customers of two respective years.
+
+2018-07
+Proportion of subscribers: 0.9102394246238289
+Proportion of customers: 0.0897605753761711
+2017-07
+Proportion of subscribers: 0.9217228129747118
+Proportion of customers:  0.7827718702528817
+
+The most popular/ top 10 start and end stations can mostly be found in New Jersey zipcode 07302 since this area is mostly residential homes and most of the roads have bike lanes.The bottom 10 start stations are more spread out throughout 3 different zip codes, while the bottom 10 end stations are spread out throughout 
+several zip codes because these zip codes are very close to each other and their roads have bike lanes, which allows riders to easily bike from one zip code to another.Overall, there is steady ridership growth across user types, suggesting a healthy demand for CitiBikes. 
